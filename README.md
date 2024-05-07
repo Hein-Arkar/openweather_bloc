@@ -1,4 +1,4 @@
-# open_weather_cubit
+# openweather_bloc
 
 A new Flutter project.
 
